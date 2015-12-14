@@ -2,6 +2,10 @@ Essix
 ==========
 A delightfully quick, simple, bare-bones, client-side ES6 (ES2015) project setup
 
+> **Requirements:**
+
+> - Node.js
+
 Quick Install & Setup
 ---------
 From the command line, run:
