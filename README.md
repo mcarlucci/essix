@@ -2,12 +2,19 @@ Essix
 ==========
 A delightfully quick, simple, bare-bones, client-side ES6 (ES2015) project setup
 
+What's in the box:
+- gulp
+- gulp-babel
+- gulp-watch
+- gulp-concat
+- gulp-sourcemaps
+
+Quick Install & Setup
+---------
 > **Requirements:**
 
 > - Node.js
 
-Quick Install & Setup
----------
 From the command line, run:
 
     git clone https://github.com/mcarlucci/essix.git myES6AppName
