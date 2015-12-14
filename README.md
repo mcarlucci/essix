@@ -23,7 +23,7 @@ From the command line, run:
     
 Visit example.html in your browser to see the transpiled ES6/ES5 code at work.
 
-Enjoy writing ES6 code!
+Enjoy writing better javascript!
 
 Options
 -------
