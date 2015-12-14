@@ -1,6 +1,6 @@
 Essix
 ==========
-A delightfully quick, simple, bare-bones, client-side ES6 (ES2015) project setup
+A delightfully quick, simple, bare-bones, client-side ES6 (ES2015) JavaScript project setup
 
 What's in the box:
 - gulp
