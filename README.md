@@ -1,6 +1,6 @@
 Essix
 ==========
-A delightfully quick and simple bare-bones ES6 project setup
+A delightfully quick, simple, bare-bones, client-side ES6 (ES2015) project setup
 
 Quick Install & Setup
 ---------
