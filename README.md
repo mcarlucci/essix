@@ -1,7 +1,7 @@
 Essix
 ==========
 A delightfully quick, simple, bare-bones, client-side ES6 (ES2015) JavaScript project setup.
-This project uses the bare minimum setup to transpile ES6 code into ES5 code using gulp. Nothing more nothing less.
+This project uses the bare minimum setup to transpile ES6 code into ES5 code using gulp. Nothing more, nothing less.
 
 What's in the box:
 - gulp
