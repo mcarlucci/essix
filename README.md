@@ -1,7 +1,7 @@
 Essix
 ==========
-A delightfully quick, simple, bare-bones, client-side ES6 (ES2015) JavaScript project setup.
-This project uses a bare minimum setup to transpile ES6 code into ES5 code using babel and gulp. Nothing more, nothing less.
+A delightfully quick, simple, bare-bones, client-side ES6+ (ES2015) JavaScript project setup.
+This project uses a bare minimum setup to transpile ES6+ code into ES5 code using babel and gulp. Nothing more, nothing less.
 
 What's in the box:
 - gulp
@@ -22,7 +22,7 @@ From the command line, run:
 
 src/scripts.js creates and compiles to /dist by default.
 
-Visit example.html in your browser to see the transpiled ES6/ES5 code at work.
+Visit example.html in your browser to see the transpiled ES6+/ES5 code at work.
 
 Enjoy writing better javascript!
 
