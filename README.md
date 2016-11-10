@@ -16,17 +16,14 @@ Quick Install & Setup
 
 From the command line, run:
 
-    git clone https://github.com/mcarlucci/essix.git myES6AppName
-    cd myES6AppName && npm install
-    gulp
+```
+git clone https://github.com/mcarlucci/essix.git myES6AppName
+cd myES6AppName && npm install
+gulp
+```
+
+Visit [localhost:8080](localhost:8080) in your browser to see the transpiled ES6+/ES5 code at work.
 
 src/scripts.js creates and compiles to /dist by default.
 
-Visit example.html in your browser to see the transpiled ES6+/ES5 code at work.
-
 Enjoy writing better javascript!
-
-Options
--------
-- 'gulp' or 'gulp build': compiles once
-- 'gulp watch': compiles on each save

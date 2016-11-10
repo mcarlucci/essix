@@ -1,13 +1,10 @@
-let name = 'Matt Carlucci';
-let age = 28;
-
-const tmpl = `Hi! My name is ${name} and I'm ${age} years old.`;
-
-alert(tmpl);
-
 // Expressions w/object literal
 let person = {
-    name: 'Matt Carlucci'
+    name: 'Matt Carlucci',
+    age: 29
 };
 
-alert(`Thanks for making all of the things awesome, ${person.name}!`);
+// interpolation and string templates
+const tmpl = `Hi! My name is ${person.name} and I'm ${person.age} years old.`;
+
+document.getElementById('content').innerHTML = tmpl;
