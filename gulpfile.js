@@ -32,4 +32,4 @@ gulp.task('webserver', function() {
 });
 
 // default gulp task(s)
-gulp.task('default', ['webserver', 'watch']);
+gulp.task('default', ['build', 'webserver', 'watch']);
