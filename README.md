@@ -10,10 +10,6 @@ What's in the box:
 
 Quick Install & Setup
 ---------
-> **Requirements:**
-
-> - Node.js
-
 From the command line, run:
 
 ```
