@@ -20,6 +20,6 @@ gulp
 
 Visit [localhost:8080](http://localhost:8080) in your browser to see the transpiled ES6+/ES5 code at work.
 
-src/scripts.js creates and compiles to /dist by default.
+`src/scripts.js` creates and compiles to `/dist` by default.
 
 Enjoy writing better javascript!
